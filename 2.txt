@@ -4,7 +4,6 @@ xdfghjkl
 
 
 rrvKJACBHOASVCUASVCIUTAFCOHAVUODFAWdbjk
-<<<<<<< HEAD
 
 
 
@@ -12,5 +11,8 @@ dfghjkl;
 fghjk
 
 dfghjkl
-=======
->>>>>>> parent of 9cb618f... reset
+
+sdfghjkl;vjjhdbjknscl
+bcjhsvcuiavc
+basucauctyavc
+bcvuasvcga
